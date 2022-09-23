@@ -2,7 +2,7 @@
 
 **Skill / Job Recommender Application**
 
-Team ID- PNT2022TMID53102
+Team ID - PNT2022TMID53102
 
  - Team Leader - Roshan Adhithya S S
  - Team Member 1 - Rishikesh B
